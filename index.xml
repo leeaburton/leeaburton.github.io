@@ -44,6 +44,15 @@
 
 &lt;p&gt;I modify the files on my computer, which are easy to read, modify and create. And then Hugo compiles them for me into a &amp;lsquo;public&amp;rsquo; folder.&lt;/p&gt;
 
+&lt;p&gt;These changes can be viewed locally before i make anything public, so I can check I didn&amp;rsquo;t do too much damage!&lt;/p&gt;
+
+&lt;p&gt;This can be done by typing&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;hugo server
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;and then opening &lt;a href=&#34;http://localhost:1313&#34; rel=&#34;nofollow&#34;&gt;localhost:1313&lt;/a&gt; in my web browser&lt;/p&gt;
+
 &lt;p&gt;It&amp;rsquo;s progress is easily documented, tracked and kept transparent by github.&lt;/p&gt;
 
 &lt;p&gt;github also provides the website domain, as you can see from the address.&lt;/p&gt;
