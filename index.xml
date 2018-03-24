@@ -38,11 +38,11 @@
       <pubDate>Mon, 19 Feb 2018 14:35:20 +0100</pubDate>
       
       <guid>https://leeaburton.github.io/post/post-2/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m always forgetting how to code. It&amp;rsquo;s a great trait for someone who&amp;rsquo;s entire career depends on it. As i said in my first post I want this site to be a place to keep the kind of snippets I always forget. So to begin with I document here the info relevant for the site itself.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m always forgetting how to code. It&amp;rsquo;s not a great trait for someone who&amp;rsquo;s entire career depends on it. As i said in my first post I want this site to be a place to keep the kind of snippets I always forget. So to begin I&amp;rsquo;ll put here the info relevant for the site itself.&lt;/p&gt;
 
-&lt;p&gt;Firstly, this site is built by Hugo and not Jekyll. I installed Hugo with Homebrew.&lt;/p&gt;
+&lt;p&gt;Firstly, this site is built by Hugo and not Jekyll. I installed Hugo with &lt;a href=&#34;https://brew.sh/&#34;&gt;Homebrew&lt;/a&gt;, which is a great package manager for mac computers.&lt;/p&gt;
 
-&lt;p&gt;I modify the files on my computer, which are easy to read, modify and create. And then Hugo compiles them for me into a &amp;lsquo;public&amp;rsquo; folder.&lt;/p&gt;
+&lt;p&gt;I write the files on my computer, which are easy to read, modify and create. Then Hugo compiles them for me into a &amp;lsquo;public&amp;rsquo; folder.&lt;/p&gt;
 
 &lt;p&gt;These changes can be viewed locally before i make anything public, so I can check I didn&amp;rsquo;t do too much damage!&lt;/p&gt;
 
@@ -53,15 +53,13 @@
 
 &lt;p&gt;and then opening &lt;a href=&#34;http://localhost:1313&#34; rel=&#34;nofollow&#34;&gt;localhost:1313&lt;/a&gt; in my web browser&lt;/p&gt;
 
-&lt;p&gt;It&amp;rsquo;s progress is easily documented, tracked and kept transparent by github.&lt;/p&gt;
+&lt;p&gt;The site&amp;rsquo;s progress is easily documented, tracked and kept transparent by github. Github also provides the domain, as you can see from the address bar.&lt;/p&gt;
 
-&lt;p&gt;github also provides the website domain, as you can see from the address.&lt;/p&gt;
+&lt;p&gt;After I use Hugo to build the files, I go to the public directory, add the changes, comment on the changes and push to the repository.&lt;/p&gt;
 
-&lt;p&gt;after I use Hugo to build the files, I go to the public directory, add the changes, comment on the changes and push to the repository.&lt;/p&gt;
+&lt;p&gt;The commands for this are:&lt;/p&gt;
 
-&lt;p&gt;the commands for this are:&lt;/p&gt;
-
-&lt;p&gt;hugo&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;hugo&lt;/p&gt;
 
 &lt;p&gt;cd public&lt;/p&gt;
 
@@ -69,7 +67,10 @@
 
 &lt;p&gt;git commit -m &amp;ldquo;explanation of most recent changes&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;git push&lt;/p&gt;
+&lt;p&gt;git push
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Then it takes about 10 minutes before the site updates to the most recent version.&lt;/p&gt;
 </description>
     </item>
     
