@@ -22,13 +22,45 @@
     
     <item>
       <title>First Post</title>
-      <link>https://leeaburton.github.io/post/first-post/</link>
+      <link>https://leeaburton.github.io/post/post-1/</link>
       <pubDate>Mon, 19 Feb 2018 14:35:20 +0100</pubDate>
       
-      <guid>https://leeaburton.github.io/post/first-post/</guid>
+      <guid>https://leeaburton.github.io/post/post-1/</guid>
       <description>&lt;p&gt;For a while I&amp;rsquo;ve wanted to make somewhere that could keep useful info or host unofficial side projects. Thanks to Hugo and github i&amp;rsquo;ve been able to put this site together quite easily. For now the plan is to have posts where i can keep snippets i&amp;rsquo;ve found useful on certain topics, for example using Blender to create snazzy images, and projects where ideas can be built up bit by bit.&lt;/p&gt;
 
 &lt;p&gt;I want to keep redundancy to a minimum, so if you&amp;rsquo;re looking for papers head over to google scholar, random thoughts head over to twitter etc. Here will just be for stand-alone work stuff&amp;hellip; apologies in advanced if it&amp;rsquo;s sometimes a little rough around the edges! :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>This Site</title>
+      <link>https://leeaburton.github.io/post/post-2/</link>
+      <pubDate>Mon, 19 Feb 2018 14:35:20 +0100</pubDate>
+      
+      <guid>https://leeaburton.github.io/post/post-2/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m always forgetting how to code. It&amp;rsquo;s a great trait for someone who&amp;rsquo;s entire career depends on it. As i said in my first post I want this site to be a place to keep the kind of snippets I always forget. So to begin with I document here the info relevant for the site itself.&lt;/p&gt;
+
+&lt;p&gt;Firstly, this site is built by Hugo and not Jekyll. I installed Hugo with Homebrew.&lt;/p&gt;
+
+&lt;p&gt;I modify the files on my computer, which are easy to read, modify and create. And then Hugo compiles them for me into a &amp;lsquo;public&amp;rsquo; folder.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s progress is easily documented, tracked and kept transparent by github.&lt;/p&gt;
+
+&lt;p&gt;github also provides the website domain, as you can see from the address.&lt;/p&gt;
+
+&lt;p&gt;after I use Hugo to build the files, I go to the public directory, add the changes, comment on the changes and push to the repository.&lt;/p&gt;
+
+&lt;p&gt;the commands for this are:&lt;/p&gt;
+
+&lt;p&gt;hugo&lt;/p&gt;
+
+&lt;p&gt;cd public&lt;/p&gt;
+
+&lt;p&gt;git add .&lt;/p&gt;
+
+&lt;p&gt;git commit -m &amp;ldquo;explanation of most recent changes&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;git push&lt;/p&gt;
 </description>
     </item>
     
