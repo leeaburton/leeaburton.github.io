@@ -11,12 +11,20 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>First Project</title>
-      <link>https://leeaburton.github.io/project/first-project/</link>
+      <title>World Data</title>
+      <link>https://leeaburton.github.io/project/project-world/</link>
       <pubDate>Mon, 19 Feb 2018 14:58:40 +0100</pubDate>
       
-      <guid>https://leeaburton.github.io/project/first-project/</guid>
-      <description>&lt;p&gt;test first project :)&lt;/p&gt;
+      <guid>https://leeaburton.github.io/project/project-world/</guid>
+      <description>&lt;p&gt;A while ago a policy change in the US prompted coders and scientists to start downloading and collecting NASA data. I ended up with a huge repository of data for land elevation for the entire globe. It was too large to practically work with and it didn&amp;rsquo;t relate directly to my own research so it has been sidelined for a long time.&lt;/p&gt;
+
+&lt;p&gt;Now that I made this site there is a place I can put the results and update my slow but steady progress.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://leeaburton.github.io/img/Scandanavia.jpg&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The image above was the largest plot of the data that I was able to run on my laptop for a long time. At last I think I&amp;rsquo;ve been able to make the data workable by converting format and coarsegraining heavily. So hopefully in the coming weeks I can make some pretty plots and create working model for the globe.&lt;/p&gt;
+
+&lt;p&gt;I still have no real goal of what to do with this info but I think it could be the basis of a lot of interesting stuff in the future.&lt;/p&gt;
 </description>
     </item>
     

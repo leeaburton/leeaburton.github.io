@@ -13,12 +13,13 @@
     
     
     <item>
-      <title>First Project</title>
-      <link>https://leeaburton.github.io/project/first-project/</link>
+      <title>World Data</title>
+      <link>https://leeaburton.github.io/project/project-world/</link>
       <pubDate>Mon, 19 Feb 2018 14:58:40 +0100</pubDate>
       
-      <guid>https://leeaburton.github.io/project/first-project/</guid>
-      <description>test first project :)</description>
+      <guid>https://leeaburton.github.io/project/project-world/</guid>
+      <description>A while ago a policy change in the US prompted coders and scientists to start downloading and collecting NASA data. I ended up with a huge repository of data for land elevation for the entire globe. It was too large to practically work with and it didn&amp;rsquo;t relate directly to my own research so it has been sidelined for a long time.
+Now that I made this site there is a place I can put the results and update my slow but steady progress.</description>
     </item>
     
   </channel>
