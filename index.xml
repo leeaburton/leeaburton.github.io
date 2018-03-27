@@ -32,7 +32,13 @@
 
 &lt;p&gt;&lt;img src=&#34;https://leeaburton.github.io/img/Globe_NE_full.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Hopefully it is recognisable as the North-east quarter of the globe, as defined by the prime miridian and equator. It&amp;rsquo;s enough to play around with for now but of course i still want to work on getting the full world data&amp;hellip; hopefully not too long now!&lt;/p&gt;
+&lt;p&gt;It should be recognisable as the North-east quarter of the globe, as defined by the prime miridian and equator. It&amp;rsquo;s enough to play around with for now but of course i still want to work on getting the full world data&amp;hellip; hopefully not too long now!&lt;/p&gt;
+
+&lt;p&gt;update: OK, this is a way clearer representation of what I have:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://leeaburton.github.io/img/Globe_NE_BW.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is found by splitting the data into black and white. White for any point where the elevation is zero with respect to sea level and black for anything higher than that.&lt;/p&gt;
 </description>
     </item>
     
