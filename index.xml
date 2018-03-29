@@ -11,6 +11,25 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Project: Light</title>
+      <link>https://leeaburton.github.io/project/project-light/</link>
+      <pubDate>Mon, 19 Feb 2018 14:58:40 +0100</pubDate>
+      
+      <guid>https://leeaburton.github.io/project/project-light/</guid>
+      <description>&lt;p&gt;This is another side-project based on data from NASA. I found the information for amount of sunlight at each point on the planet for latitude and longitude. I cross referenced this with the coordinates for cities in the world to see which is the sunniest place.&lt;/p&gt;
+
+&lt;p&gt;I tried to factor in electricity cost and use that to find the best location in the world to put solar panels in terms of profit return, rather than for example some amazing work been done in Africa on an almost charity basis. A combination of expensive electricity and intense sunlight was the most desirable.&lt;/p&gt;
+
+&lt;p&gt;One problem is the available data for electricity cost is really hard to come by in a consistant way. Another problem I found when I pitched this idea to a mock panel of investors, is that political instability is a huge problem for something like this. The top 2 or 3 locations returned by my code were in relatively volatile parts of the world and the panel were not keen. Needless to say I did not win that competition :p&lt;/p&gt;
+
+&lt;p&gt;Now my plan is a little different. In Project: World I&amp;rsquo;m developing the data for world land area. This can then be overlayed with the data I have here for available sunlight to create an estimate of global solar energy potential. This is just one straight-forward idea. I&amp;rsquo;m hoping that by putting these resources side by side on this sight I can form separate but complimentary projects to build towards something.&lt;/p&gt;
+
+&lt;p&gt;TO DO: make a plot of the solar intensity data as a grid.
+TO DO: tidy up the script and put it on github linked here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>World Data</title>
       <link>https://leeaburton.github.io/project/project-world/</link>
       <pubDate>Mon, 19 Feb 2018 14:58:40 +0100</pubDate>
