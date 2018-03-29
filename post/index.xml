@@ -13,11 +13,11 @@
     
     
     <item>
-      <title>This Site</title>
-      <link>https://leeaburton.github.io/post/post-hugo/</link>
+      <title>Post: Website</title>
+      <link>https://leeaburton.github.io/post/post-website/</link>
       <pubDate>Mon, 19 Feb 2018 14:35:20 +0100</pubDate>
       
-      <guid>https://leeaburton.github.io/post/post-hugo/</guid>
+      <guid>https://leeaburton.github.io/post/post-website/</guid>
       <description>I&amp;rsquo;m always forgetting how to code. It&amp;rsquo;s not a great trait for someone who&amp;rsquo;s entire career depends on it. As i said on my homepage I want this site to be a place to keep the kind of snippets I always forget. So to begin I&amp;rsquo;ll put here the info relevant for the site itself.
 Firstly, this site is built by Hugo and not Jekyll. I installed Hugo with Homebrew, which is a great package manager for mac computers.</description>
     </item>
