@@ -28,3 +28,4 @@ After opening Blender, click File -> User preferences, then the Add-ons tab. Her
 
 From now on you can load "protein data bank (pdf) files" into blender (it seems like recently you can also load XYZ files with atomic blender but I'll need to check that).  Vesta allows you to export pdb files by default, so now there is a pathway to load structures into professional 3D imaging software without having to modify anything by hand.
 
+TODO: I just realised I need to look in to public licences and permission before i start posting images and explanations to this. I guess that's going to be another post in itself!
