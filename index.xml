@@ -62,6 +62,24 @@ TO DO: tidy up the script and put it on github linked here.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Post: Images</title>
+      <link>https://leeaburton.github.io/post/post-images/</link>
+      <pubDate>Mon, 19 Feb 2018 14:35:20 +0100</pubDate>
+      
+      <guid>https://leeaburton.github.io/post/post-images/</guid>
+      <description>&lt;p&gt;There are many many ways for scientists to make 3D images. I&amp;rsquo;m going to focus on just 2 software packages called &lt;a href=&#34;http://jp-minerals.org/vesta/en/&#34;&gt;VESTA&lt;/a&gt; and &lt;a href=&#34;https://www.blender.org/&#34;&gt;Blender&lt;/a&gt;. Vesta is my go-to visualisation tool, I&amp;rsquo;ve used it since day one and it&amp;rsquo;s very intuitive and flexible. Blender on the other hand is a more involved and complicated process but this software offers the possibility for professional grade 3D images and even CGI animations. Oh and they&amp;rsquo;re both free! :)&lt;/p&gt;
+
+&lt;p&gt;Right, to begin with you have to load a specific addon called &lt;a href=&#34;https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Import-Export/PDB&#34;&gt;Atomic Blender&lt;/a&gt;, so that blender will understand chemical structures.&lt;/p&gt;
+
+&lt;p&gt;After opening Blender, click File -&amp;gt; User preferences, then the Add-ons tab. Here you have to tick &amp;ldquo;Import-Export: Atomic Blender - PDB&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;From now on you can load &amp;ldquo;protein data bank (pdf) files&amp;rdquo; into blender (it seems like recently you can also load XYZ files with atomic blender but I&amp;rsquo;ll need to check that).  Vesta allows you to export pdb files by default, so now there is a pathway to load structures into professional 3D imaging software without having to modify anything by hand.&lt;/p&gt;
+
+&lt;p&gt;TODO: I just realised I need to look in to public licences and permission before i start posting images and explanations to this. I guess that&amp;rsquo;s going to be another post in itself!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Post: Website</title>
       <link>https://leeaburton.github.io/post/post-website/</link>
       <pubDate>Mon, 19 Feb 2018 14:35:20 +0100</pubDate>

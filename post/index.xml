@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Post: Images</title>
+      <link>https://leeaburton.github.io/post/post-images/</link>
+      <pubDate>Mon, 19 Feb 2018 14:35:20 +0100</pubDate>
+      
+      <guid>https://leeaburton.github.io/post/post-images/</guid>
+      <description>There are many many ways for scientists to make 3D images. I&amp;rsquo;m going to focus on just 2 software packages called VESTA and Blender. Vesta is my go-to visualisation tool, I&amp;rsquo;ve used it since day one and it&amp;rsquo;s very intuitive and flexible. Blender on the other hand is a more involved and complicated process but this software offers the possibility for professional grade 3D images and even CGI animations. Oh and they&amp;rsquo;re both free!</description>
+    </item>
+    
+    <item>
       <title>Post: Website</title>
       <link>https://leeaburton.github.io/post/post-website/</link>
       <pubDate>Mon, 19 Feb 2018 14:35:20 +0100</pubDate>
