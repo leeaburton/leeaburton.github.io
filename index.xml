@@ -20,7 +20,7 @@
 
 &lt;p&gt;I tried to factor in electricity cost and use that to find the best location in the world to put solar panels in terms of profit return, rather than for example some amazing work been done in Africa on an almost charity basis. A combination of expensive electricity and intense sunlight was the most desirable.&lt;/p&gt;
 
-&lt;p&gt;One problem is the available data for electricity cost is really hard to come by in a consistant way. Another problem I found when I pitched this idea to a mock panel of investors, is that political instability is a huge problem for something like this. The top 2 or 3 locations returned by my code were in relatively volatile parts of the world and the panel were not keen. Needless to say I did not win that competition :p&lt;/p&gt;
+&lt;p&gt;One problem is the available data for electricity cost is really hard to come by in a consistent way. Another problem I found when I pitched this idea to a mock panel of investors, is that political instability is a huge problem for something like this. The top 2 or 3 locations returned by my code were in relatively volatile parts of the world and the panel were not keen. Needless to say I did not win that competition :p&lt;/p&gt;
 
 &lt;p&gt;Now my plan is a little different. In Project: World I&amp;rsquo;m developing the data for world land area. This can then be overlayed with the data I have here for available sunlight to create an estimate of global solar energy potential. This is just one straight-forward idea. I&amp;rsquo;m hoping that by putting these resources side by side on this sight I can form separate but complimentary projects to build towards something.&lt;/p&gt;
 
@@ -41,7 +41,7 @@ TO DO: tidy up the script and put it on github linked here.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://leeaburton.github.io/img/Scandanavia.jpg&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The image above was the largest plot of the data that I was able to run on my laptop for a long time. At last I think I&amp;rsquo;ve been able to make the data workable by converting format and coarsegraining heavily. So hopefully in the coming weeks I can make some pretty plots and create working model for the globe.&lt;/p&gt;
+&lt;p&gt;The image above was the largest plot of the data that I was able to run on my laptop for a long time. At last I think I&amp;rsquo;ve been able to make the data workable by converting format and coarse-graining heavily. So hopefully in the coming weeks I can make some pretty plots and create working model for the globe.&lt;/p&gt;
 
 &lt;p&gt;I still have no real goal of what to do with this info but I think it could be the basis of a lot of interesting stuff in the future.&lt;/p&gt;
 
@@ -51,7 +51,7 @@ TO DO: tidy up the script and put it on github linked here.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://leeaburton.github.io/img/Globe_NE_full.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;It should be recognisable as the North-east quarter of the globe, as defined by the prime miridian and equator. It&amp;rsquo;s enough to play around with for now but of course i still want to work on getting the full world data&amp;hellip; hopefully not too long now!&lt;/p&gt;
+&lt;p&gt;It should be recognisable as the North-east quarter of the globe, as defined by the prime meridian and equator. It&amp;rsquo;s enough to play around with for now but of course i still want to work on getting the full world data&amp;hellip; hopefully not too long now!&lt;/p&gt;
 
 &lt;p&gt;update: OK, this is a way clearer representation of what I have:&lt;/p&gt;
 
