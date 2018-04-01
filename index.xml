@@ -39,7 +39,24 @@ TO DO: tidy up the script and put it on github linked here.&lt;/p&gt;
 
 &lt;p&gt;Now that I made this site there is a place I can put the results and update my slow but steady progress.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://leeaburton.github.io/img/Scandanavia.jpg&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://leeaburton.github.io/img/Scandanavia.jpg&#34; alt=&#34;Scandanavia Elevation&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Scandanavia Elevation:&lt;/h4&gt;
+        &lt;p&gt;
+        Example of largest area I could plot land elevation for
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
 
 &lt;p&gt;The image above was the largest plot of the data that I was able to run on my laptop for a long time. At last I think I&amp;rsquo;ve been able to make the data workable by converting format and coarse-graining heavily. So hopefully in the coming weeks I can make some pretty plots and create working model for the globe.&lt;/p&gt;
 
@@ -49,13 +66,47 @@ TO DO: tidy up the script and put it on github linked here.&lt;/p&gt;
 
 &lt;p&gt;Ok it seems I was finally able to get the ball rolling. This is the first major chunk of data I&amp;rsquo;ve been able to extract and work with:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://leeaburton.github.io/img/Globe_NE_full.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://leeaburton.github.io/img/Globe_NE_full.png&#34; alt=&#34;North-east globe elevation&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;North-east globe elevation:&lt;/h4&gt;
+        &lt;p&gt;
+        finally a complete portion of the globe, the elevation of Tibet dominates the surrounding areas
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
 
 &lt;p&gt;It should be recognisable as the North-east quarter of the globe, as defined by the prime meridian and equator. It&amp;rsquo;s enough to play around with for now but of course i still want to work on getting the full world data&amp;hellip; hopefully not too long now!&lt;/p&gt;
 
 &lt;p&gt;update: OK, this is a way clearer representation of what I have:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://leeaburton.github.io/img/Globe_NE_BW.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://leeaburton.github.io/img/Globe_NE_BW.png&#34; alt=&#34;North-east globe above sea level&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;North-east globe above sea level:&lt;/h4&gt;
+        &lt;p&gt;
+        splitting the data into above sea level or not gives a much familiar image of the world
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
 
 &lt;p&gt;This is found by splitting the data into black and white. White for any point where the elevation is zero with respect to sea level and black for anything higher than that.&lt;/p&gt;
 </description>
