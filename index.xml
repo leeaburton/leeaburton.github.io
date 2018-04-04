@@ -140,20 +140,40 @@ TO DO: tidy up the script and put it on github linked here.&lt;/p&gt;
 
 &lt;p&gt;Firstly, this site is built by Hugo and not Jekyll. I installed Hugo with &lt;a href=&#34;https://brew.sh/&#34;&gt;Homebrew&lt;/a&gt;, which is a great package manager for mac computers.&lt;/p&gt;
 
-&lt;p&gt;I write the files on my computer, which are easy to read, modify and create. Then Hugo compiles them for me into a &amp;lsquo;public&amp;rsquo; folder.&lt;/p&gt;
+&lt;p&gt;The site&amp;rsquo;s progress is easily documented and tracked with git, which can also be obtained from &lt;a href=&#34;https://brew.sh/&#34;&gt;Homebrew&lt;/a&gt;. I have a Github account, which allows for open access contributions to my work and even provides the domain, as you can see from the address bar.&lt;/p&gt;
+
+&lt;p&gt;With Hugo I use &lt;strong&gt;Academic&lt;/strong&gt;, a framework to help you create a nice website quickly. It&amp;rsquo;s specifically made for academic websites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you can get in less than 10 minutes or &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;view the documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Academic Kickstart&lt;/strong&gt; is a minimal template to start a new website (which i&amp;rsquo;m still using) by following the simple steps below.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Clone (or &lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart#fork-destination-box&#34; target=&#34;_blank&#34;&gt;Fork&lt;/a&gt; or &lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart/archive/master.zip&#34; target=&#34;_blank&#34;&gt;download&lt;/a&gt;) the &lt;em&gt;Academic Kickstart&lt;/em&gt; repository with Git:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git clone &lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart.git&#34; target=&#34;_blank&#34;&gt;https://github.com/sourcethemes/academic-kickstart.git&lt;/a&gt; My_Website&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note that if you forked Academic Kickstart, the above command should be edited to clone your fork.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Initialize the theme:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;cd My_Website&lt;/code&gt;
+   &lt;code&gt;git submodule update &amp;ndash;init &amp;ndash;recursive&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content, customize your site, and deploy it.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;From this point I can write the files on my computer, which are easy to read, modify and create.&lt;/p&gt;
 
 &lt;p&gt;These changes can be viewed locally before i make anything public, so I can check I didn&amp;rsquo;t do too much damage!&lt;/p&gt;
 
 &lt;p&gt;This can be done by typing&lt;/p&gt;
 
-&lt;p&gt;&lt;code&gt;hugo server
-&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;hugo server&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;and then opening &lt;a href=&#34;http://localhost:1313&#34; rel=&#34;nofollow&#34;&gt;localhost:1313&lt;/a&gt; in my web browser&lt;/p&gt;
 
-&lt;p&gt;The site&amp;rsquo;s progress is easily documented, tracked and kept transparent by github. Github also provides the domain, as you can see from the address bar.&lt;/p&gt;
-
-&lt;p&gt;After I use Hugo to build the files, I go to the public directory, add the changes, comment on the changes and push to the repository.&lt;/p&gt;
+&lt;p&gt;When I&amp;rsquo;m ready I use Hugo to build the files, I go to the public directory, add the changes, comment on the changes and push to the repository.&lt;/p&gt;
 
 &lt;p&gt;The commands for this are:&lt;/p&gt;
 
@@ -168,6 +188,8 @@ TO DO: tidy up the script and put it on github linked here.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;git push&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;Then it takes about 10 minutes before the site updates to the most recent version.&lt;/p&gt;
+
+&lt;p&gt;The original author of Academic Kickstart is &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;. It is released under the &lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license, Copyright 2017.&lt;/p&gt;
 </description>
     </item>
     
