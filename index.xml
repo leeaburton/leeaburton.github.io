@@ -35,30 +35,15 @@ TO DO: tidy up the script and put it on github linked here.&lt;/p&gt;
       <pubDate>Mon, 19 Feb 2018 14:58:40 +0100</pubDate>
       
       <guid>https://leeaburton.github.io/project/project-world/</guid>
-      <description>&lt;p&gt;A while ago a policy change in the US prompted coders and scientists to start downloading and collecting NASA data. I ended up with a huge repository of data for land elevation for the entire globe. It was too large to practically work with and it didn&amp;rsquo;t relate directly to my own research so it has been sidelined for a long time.&lt;/p&gt;
+      <description>&lt;p&gt;A while ago a policy change in the US prompted coders and scientists to start downloading and collecting NASA data. I dabbled a bit and ended up with a huge repository of data for land elevation for the entire globe. It was too large to practically work with and it didn&amp;rsquo;t relate directly to my own research so it has been sidelined for a long time.&lt;/p&gt;
 
 &lt;p&gt;Now that I made this site there is a place I can put the results and update my slow but steady progress.&lt;/p&gt;
 
+&lt;p&gt;I tweeted more than 1 year ago the largest plot of the data that I was able to run on my laptop at that time. At last I think I&amp;rsquo;ve been able to make the data workable by converting format and coarse-graining heavily. So hopefully in the coming weeks I can make some pretty plots and create working model for the globe.&lt;/p&gt;
 
-&lt;figure&gt;
-    
-        &lt;img src=&#34;https://leeaburton.github.io/img/Scandanavia.jpg&#34; alt=&#34;Scandanavia Elevation&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Scandanavia Elevation:&lt;/h4&gt;
-        &lt;p&gt;
-        Example of largest area I could plot land elevation for
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I’ve yet to find a computer powerful enough to plot a window much bigger than this – its A LOT of data (Scandinavia) &lt;a href=&#34;https://t.co/5MC3WuxxUs&#34;&gt;pic.twitter.com/5MC3WuxxUs&lt;/a&gt;&lt;/p&gt;&amp;mdash; Lee Burton (@leeaburton) &lt;a href=&#34;https://twitter.com/leeaburton/status/817416634520469504?ref_src=twsrc%5Etfw&#34;&gt;January 6, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
-
-&lt;p&gt;The image above was the largest plot of the data that I was able to run on my laptop for a long time. At last I think I&amp;rsquo;ve been able to make the data workable by converting format and coarse-graining heavily. So hopefully in the coming weeks I can make some pretty plots and create working model for the globe.&lt;/p&gt;
 
 &lt;p&gt;I still have no real goal of what to do with this info but I think it could be the basis of a lot of interesting stuff in the future.&lt;/p&gt;
 
