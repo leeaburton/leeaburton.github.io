@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.38.1" />
+  <meta name="generator" content="Hugo 0.38.2" />
   <meta name="author" content="Lee A. Burton">
 
   
@@ -312,9 +312,9 @@ Now that I made this site there is a place I can put the results and update my s
 </figure>
 
 
-<p>It should be recognisable as the North-east quarter of the globe, as defined by the prime meridian and equator. It&rsquo;s enough to play around with for now but of course i still want to work on getting the full world data&hellip; hopefully not too long now!</p>
+<p>It should be recognisable as the North-east quarter of the globe, as defined by the prime meridian and equator. It&rsquo;s enough to play around with for now but of course i still want to work on getting the full world data.</p>
 
-<p>update: OK, this is a way clearer representation of what I have:</p>
+<p>OK, this is a way clearer representation of what I have:</p>
 
 
 <figure>
@@ -336,6 +336,52 @@ Now that I made this site there is a place I can put the results and update my s
 
 
 <p>This is found by splitting the data into black and white. White for any point where the elevation is zero with respect to sea level and black for anything higher than that.</p>
+
+<p>&ndash; update 13 April 2018 &ndash;</p>
+
+<p>Right the north-west hemisphere is finished. And there&rsquo;s a lot of interesting things to see if I use the same methods as before to plot this data:</p>
+
+
+<figure>
+    
+        <img src="/img/Globe_NW_full.png" alt="North-east globe elevation" />
+    
+    
+    <figcaption>
+        <h4>North-east globe elevation:</h4>
+        <p>
+        finally a complete portion of the globe, the elevation of Tibet dominates the surrounding areas
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>This method of plotting is useful because it looks like there are a couple of seams in the data, one on the west of Greenland and one down the middle of North America. These vertical discontinuities could either be due to the way I&rsquo;m plotting the data or the raw data itself. I need to really get in and start digging</p>
+
+
+<figure>
+    
+        <img src="/img/Globe_NW_BW.png" alt="North-east globe above sea level" />
+    
+    
+    <figcaption>
+        <h4>North-east globe above sea level:</h4>
+        <p>
+        splitting the data into above sea level or not gives a much familiar image of the world
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>This other way of plotting is great because it shows there is a patch of data in Brazil missing entirely! As far as i can tell there is no plot missing for the north-eat hemisphere so my code itself must be working. I either need to track down this raw data or in a worse-case scenario I can just set the entire block to be 1 (meter above sea level) and proceed with a binary model of just land/sea info.</p>
 
     </div>
 
