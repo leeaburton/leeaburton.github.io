@@ -383,6 +383,29 @@ Now that I made this site there is a place I can put the results and update my s
 
 <p>This other way of plotting is great because it shows there is a patch of data in Brazil missing entirely! As far as i can tell there is no plot missing for the north-eat hemisphere so my code itself must be working. I either need to track down this raw data or in a worse-case scenario I can just set the entire block to be 1 (meter above sea level) and proceed with a binary model of just land/sea info.</p>
 
+<p>update: I just checked and there is elevation above sea level in the raw data for at least one part of Brazil that is not being shown on my large size maps:</p>
+
+
+<figure>
+    
+        <img src="/img/missing_land.png" alt="East coast Brazil" />
+    
+    
+    <figcaption>
+        <h4>East coast Brazil:</h4>
+        <p>
+        This is the first emergence of land for east coast brazil (heading westwards) that does not appear on the larger maps of the north west-hemisphere.
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>The data shown in the above figure should appear around 1625 on the x axis of the larger maps. I&rsquo;m not sure how it&rsquo;s happened since the same code had no problem plotting this data so how did it miss it in the larger map? I might have to change the way i&rsquo;m piecing all the data together</p>
+
     </div>
 
     
