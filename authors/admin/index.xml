@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Academic</title>
+    <link>https://bmd-lab.github.io/authors/admin/</link>
+    <description>Recent content in admin on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://bmd-lab.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://bmd-lab.github.io/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bmd-lab.github.io/author/admin/</guid>
+      <description>I’m a scientist based in Shanghai. My research mostly involves using codes to simulate materials for solar panels, electric devices and catalysts.
+Here you’ll find 2 things. In Posts I want to keep snippets i’ve found useful on certain topics, like making nice 3D images. In Projects, you’ll find side work that doesn’t fit in with my day job. This way I have a place to build up knowledge bit by bit, rather than forgetting and having to start from scratch each time!</description>
+    </item>
+    
+  </channel>
+</rss>
